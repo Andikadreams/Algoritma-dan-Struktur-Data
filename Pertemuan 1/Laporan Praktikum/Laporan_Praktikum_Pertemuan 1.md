@@ -21,7 +21,7 @@ tugas, 35% nilai UTS dan 45% nilai UAS. Setiap nilai yang dimasukkan mempunyai b
 0 ‐ 100. Ketika nilai akhir sudah didapatkan selanjutnya lakukan konversi nilai dengan 
 ketentuang sebagai berikut:
 
-    <img src="fotono1.png">
+    <img src="kumpulan foto/fotono1.png">
 Jika  Nilai Huruf yang didapatkan adalah A,B+,B+C+,C maka LULUS, jika nilai huruf D dan E maka TIDAK LULUS.
 
 • Input dari program berupa komponen nilai tugas, UTS, UAS
@@ -72,7 +72,7 @@ public class Pemilihan{
 ```
 **Output Program**
 
-<img src="Pemilihan.jpg">
+<img src="kumpulan foto/Pemilihan.jpg">
 
 ## 2.3  Perulangan
 **Waktu percobaan :  30 menit**
@@ -132,7 +132,7 @@ public class perulangan {
 ```
 **Output Program**
 
-<img src="Perulangan.jpg">
+<img src="kumpulan foto/Perulangan.jpg">
 
 ## 2.4  Array
 **Waktu percobaan :  30 menit**
@@ -146,10 +146,10 @@ Materi pada praktikum ini telah dijelaskan pada matakuliah Dasar Pemrograman, se
 
 Baris = Cabang Toko, Kolom = Stock bunga pada hari x
 
-<img src="fotobunga.png">
+<img src="kumpulan foto/fotobunga.png">
 Rincian Harga Aglonema =75.000 , Keladi = 50.000, Alocasia =60.000, Mawar =10.000. Bantulah RoyalGarden dengan membuatkan program yang dapat menghitung :
 
-A. Jumlah Stock berdasarkan jenis bunganya di seluruh Cabang
+A. Jumlah Stock berdasarkan jenis bunganya di seluruh Cabang 
 
 B. Jika terdapat informasi tambahan berupa pengurangan stock karena bunga tersebut mati  pada cabang  RoyalGarden 1. Dengan rincian Aglonema  -1, Keladi  -2, Alocasia  -0, Mawar  -5. Maka berapakah total pendapatan dari RoyalGarden 1 jika semua Bunga 
 Terjual Habis
@@ -209,7 +209,7 @@ public static void main(String[] args) {
 ```
 **Output Program**
 
-<img src="Array.jpg">
+<img src="kumpulan foto/Array.jpg">
 
 ## 2.5 Fungsi
 **Waktu percobaan :  30 menit**
@@ -307,7 +307,7 @@ public class fungsi {
 ```
 **Output Program**
 
-<img src="Fungsi.jpg">
+<img src="kumpulan foto/Fungsi.jpg">
 
 ## 3. Tugas
 **Waktu  pengerjaan :  50 menit**
@@ -348,13 +348,13 @@ public class tugas1 {
 ```
 **Output Program**
 
-<img src="Tugas no1.jpg">
+<img src="kumpulan foto/Tugas no1.jpg">
 
 #### 2. Buat Program untuk menghitung rumus kecepatan, jarak, dan waktu
 
 Berikut adalah persamaan untuk menghitung rumus tersebut :
 
-<img src="fotono2.png"> 
+<img src="kumpulan foto/fotono2.png"> 
 
 **Code Program**
 ```java
@@ -406,4 +406,4 @@ public class tugas2 {
 ```
 **Output Program**
 
-<img src="Tugas no2.jpg">
+<img src="kumpulan foto/Tugas no2.jpg">
