@@ -13,5 +13,6 @@ public class BarangMain{
         System.out.println("Harga 4 buah = "+hargaTotal);
         Barang b2=new Barang("Logitech","Wireless Headset",25,2500000);
         b2.tampilBarang();
+
     }
 }
