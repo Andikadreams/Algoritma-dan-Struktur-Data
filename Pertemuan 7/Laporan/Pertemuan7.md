@@ -119,11 +119,11 @@ public class MahasiswaMain {
 ```
 Output : 
 
-<img src="foto/seq1.png">
+<img src="Foto/seq1.png">
 
-<img src="foto/seq2.png">
+<img src="Foto/seq2.png">
 
-<img src="foto/seq3.png">
+<img src="Foto/seq3.png">
 
 **6.2.3. Pertanyaan**
 
@@ -133,7 +133,7 @@ Output :
     Sedangkan metod Tampilposisi digunakan untuk menampilkan posisi data yang dicari.**
 2. Jelaskan fungsi break pada kode program dibawah ini! 
 
-    <img src="foto/soal1.png">
+    <img src="Foto/soal1.png">
 
     **Fungsi break pada program tersebut ialah : ketika listMhs[j].nim equals dengan data yang dicari maka perulangan akan dihentikan  karena data sudah ditemukan.**
 3. Jika Data Nim yang dimasukkan tidak terurut dari kecil ke besar. Apakah program masih dapat 
@@ -215,23 +215,24 @@ public class MahasiswaMain {
 
 Output :
 
-<img src="foto/seq1.png">
-<img src="foto/seq2.png">
-<img src="foto/bin1.png">
+<img src="Foto/seq1.png">
+<img src="Foto/seq2.png">
+<img src="Foto/bin1.png">
 
 **6.3.3. Pertanyaan**
 
 1. Tunjukkan pada kode program yang mana proses divide dijalankan!
-<img src="foto/divide.png">
+<img src="Foto/divide.png">
 2. Tunjukkan pada kode program yang mana proses conquer dijalankan!
-<img src="foto/conquer.png">
+<img src="Foto/conquer.png">
 3. Jika data Nim yang dimasukkan tidak urut. Apakah program masih dapat berjalan? Mengapa 
 demikian!
     
     **Program masih bisa berjalan akan tetapi pada binary search akan terjadi tidak ditemukannya data karena pada metode binary search diharuskan mengurutkan data terlebih dahulu. Berikut output program :**
-<img src="foto/per2.png">
-<img src="foto/per21.png">
-<img src="foto/per.png">
+    
+<img src="Foto/per2.png">
+<img src="Foto/per21.png">
+<img src="Foto/per.png">
 
 4. Jika Nim yang dimasukkan dari NIM terbesar ke terkecil (missal : 20215, 20214, 20212, 20211, 
     20210) dan elemen yang dicari adalah 20210. Bagaimana hasil dari binary search? Apakah 
@@ -240,13 +241,13 @@ sesuai? Jika tidak sesuai maka ubahlah kode program binary seach agar hasilnya s
     **Tidak sesuai,untuk modifikasi program dibawah ini :**
 
 
-    <img src="foto/no4.png">
+<img src="Foto/no4.png">
 
     **Jadi yang perlu dirubah hanya pada pembandingan antara listMhs[mid].nim dengan data yang dicari yang awalnya jika mid listMhs[mid].nim > cari di rubah menjadi listMhs[mid].nim < cari. mengapa demikian? karena pada soal no 4 data yang diinputkan yaitu secara descending**
 
-    <img src="foto/lat2.png">
-    <img src="foto/lat21.png">
-    <img src="foto/lat22.png">
+<img src="Foto/lat2.png">
+<img src="Foto/lat21.png">
+<img src="Foto/lat22.png">
 
 5. Modifikasilah program diatas yang mana jumlah mahasiswa yang di inputkan sesuai dengan 
 masukan dari keyboard.
@@ -370,11 +371,11 @@ public class MahasiswaMain {
 ```
 Output :
 
-<img src="foto/mod_lat5.png">
+<img src="Foto/mod_lat5.png">
 
-<img src="foto/mod_lat51.png">
+<img src="Foto/mod_lat51.png">
 
-<img src="foto/mod_lat52.png">
+<img src="Foto/mod_lat52.png">
 
 
 **6.4. Percobaan Pengayaan Divide and Conquer**
@@ -449,7 +450,7 @@ public class SortMain {
 ```
 Output : 
 
-<img src="foto/mergesort.png">
+<img src="Foto/mergesort.png">
 
 **6.5. Latihan Praktikum**
 1. Modifikasi percobaan searching diatas dengan ketentuan berikut ini
@@ -573,11 +574,11 @@ public class MahasiswaMain {
 ```
 Output : 
 
-<img src="foto/tugas_1.png">
+<img src="Foto/tugas_1.png">
 
-<img src="foto/tugas_12.png">
+<img src="Foto/tugas_12.png">
 
-<img src="foto/tugas_13.png">
+<img src="Foto/tugas_13.png">
 
 
 2. Modifikasi percobaan searching diatas dengan ketentuan berikut ini
@@ -706,14 +707,14 @@ public class MahasiswaMain {
 ```
 Output :
 
-<img src="foto/tugas_2.png">
+<img src="Foto/tugas_2.png">
 
-<img src="foto/tugas_21.png">
+<img src="Foto/tugas_21.png">
 
-<img src="foto/tugas_22.png">
+<img src="Foto/tugas_22.png">
 
 3. Terdapat sebuah data array 1 dimensi sebagai berikut
-<img src="foto/soal_tugas3.png">
+<img src="Foto/soal_tugas3.png">
 Buatlah program untuk mengurutkan array tersebut (boleh memilih metode pengurutan) 
 selanjutnya lakukan pencarian dan mencetak isi array yang nilainya terbesar, dan mencetak ada 
 berapa buah nilai terbesar tersebut serta berada dilokasi mana saja nilai terbesar tersebut! 
@@ -821,4 +822,4 @@ public class LatArrayMain{
 
 Output:
 
-<img src="foto/tugas_3.png">
+<img src="Foto/tugas_3.png">
