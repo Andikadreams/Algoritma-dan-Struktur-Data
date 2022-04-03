@@ -229,7 +229,7 @@ Output :
 demikian!
     
     **Program masih bisa berjalan akan tetapi pada binary search akan terjadi tidak ditemukannya data karena pada metode binary search diharuskan mengurutkan data terlebih dahulu. Berikut output program :**
-    
+
 <img src="Foto/per2.png">
 <img src="Foto/per21.png">
 <img src="Foto/per.png">
