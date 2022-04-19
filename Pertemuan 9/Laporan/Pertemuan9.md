@@ -339,7 +339,7 @@ public class PostfixMain {
 ```
 Output Program
 
-<img src="Foto/Prak2.png">
+<img src="Foto/prak2.png">
 
 **7.3.2 Pertanyaan**
 1. Perhatikan class Postfix, jelaskan alur kerja method derajat!
