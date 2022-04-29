@@ -123,12 +123,13 @@ public class SLLMain{
 ```
 
 Output Program
+
 <img src="Foto/prak1_output.png">
 
 **Pertanyaan Praktikum 1**
 1. Mengapa hasil compile kode program di baris pertama menghasilkan “Linked List Kosong”?
 
-    **Karena belum ada isinya dan yang di compile dulu adalah print**
+    **Hal tersebut di sebabkan karena linked list belum ada isian data dan yang di compile terlebih dahulu adalah method print**
 
 2. Pada step 10, jelaskan kegunaan kode berikut
 <img src="Foto/prak1_pertanyaan1.png">
@@ -718,6 +719,7 @@ Output Program
 <img src="Foto/tugas2_output.png">
 
 3. Buatlah Implementasi Stack berikut menggunakan  Single Linked List
+
 <img src="Foto/tugas_pertanyaan3.png"> <img src="Foto/tugas_pertanyaan3.1.png">
 
 Source Code Tugas3_SingleLinkedList
