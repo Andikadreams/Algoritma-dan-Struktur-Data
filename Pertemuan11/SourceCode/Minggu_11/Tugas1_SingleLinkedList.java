@@ -3,6 +3,7 @@ package SourceCode.Minggu_11;
 public class Tugas1_SingleLinkedList {
     Tugas1_Node head;//posisi awal linked list
     Tugas1_Node tail;//posisi akhir linked list
+    //
 
     public boolean isEmpty(){
         return head == null;
